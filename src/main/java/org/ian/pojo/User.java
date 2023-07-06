@@ -4,7 +4,6 @@ public class User {
     private Long id;
 private String name;
 private  String password;
-private String nanna;
 private Integer age;
 private String tel;
 
